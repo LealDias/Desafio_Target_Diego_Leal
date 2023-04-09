@@ -1,4 +1,7 @@
 # Desafio_Target_Diego_Leal
+
+![image](https://user-images.githubusercontent.com/70763447/230793879-98f8e815-7511-4a1a-b722-66286528a5f7.png)
+
 Tarefas do Desafio Target (Job Rotation - São Paulo)
 
 
